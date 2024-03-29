@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171585534357",
+    "project_id": "cloud-store-bf2ae",
+    "storage_bucket": "cloud-store-bf2ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171585534357:android:cf2c6b1448013d81755e9c",
+        "android_client_info": {
+          "package_name": "com.starkindustries.cloudstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqljjcBut4H_rHa6u0umRoHuB2qFCvSUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
